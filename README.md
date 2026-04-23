@@ -1,8 +1,8 @@
-# <img width="50" height="50" alt="turtle" src="https://github.com/user-attachments/assets/39f46ee1-2c06-4cca-b579-a10adaf13749" />Turtle Crossing Capstone Project
+# 🐢 Turtle Crossing Capstone Project
 
 A Python recreation of the classic Frogger arcade game, built using Object-Oriented Programming (OOP) and the Python Turtle graphics library.
 
-## <img width="300" height="168" alt="game" src="https://github.com/user-attachments/assets/fd116258-feea-4b86-8e8e-429655c41fe0" />  How to play
+## 🎮 How to play
 * **Objective:** Guide the turtle safely across a busy highway to the top of the screen.
 * **Controls:** Press the **Up Arrow** key to move forward.
 * **Rules:** * If you touch a car, the game is over.
@@ -29,4 +29,4 @@ This was a major milestone project that solidified my understanding of:
    python main.py
    ```
 ## Screenshot
-<img width="738" height="775" alt="turtle" src="https://github.com/user-attachments/assets/5d7e532b-afc4-4948-be2f-8a4c1858f885" />
+<img width="400" alt="turtle" src="https://github.com/user-attachments/assets/5d7e532b-afc4-4948-be2f-8a4c1858f885" />
